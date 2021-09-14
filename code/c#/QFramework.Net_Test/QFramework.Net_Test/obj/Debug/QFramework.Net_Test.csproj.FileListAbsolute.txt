@@ -1,0 +1,11 @@
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net_Test.exe.config
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net_Test.exe
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net_Test.pdb
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net.dll
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net.pdb
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\obj\Debug\QFramework.Net_Test.csprojResolveAssemblyReference.cache
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\obj\Debug\QFramework.Net_Test.exe
+H:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\obj\Debug\QFramework.Net_Test.pdb
+A:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\bin\Debug\QFramework.Net_Test.exe.config
+A:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\obj\Debug\QFramework.Net_Test.exe
+A:\_CI\Project\QFramework\code\c#\QFramework.Net_Test\QFramework.Net_Test\obj\Debug\QFramework.Net_Test.pdb
